@@ -10,6 +10,8 @@
 
 ## How to Run
 javac -cp ".;mysql-connector-j.jar" *.java
+
+
 java -cp ".;mysql-connector-j.jar" MainMenu
 
 ## Login Credentials
